@@ -1,2 +1,2 @@
-# ML_Predict_emotion_from_text
-Predict emotion from text
+# Распознавание эмоций по тексту.
+Для обучения модели использовался датасет [Emotions](https://www.kaggle.com/datasets/nelgiriyewithana/emotions/data)
